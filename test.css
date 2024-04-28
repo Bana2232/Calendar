@@ -64,14 +64,14 @@ body {
     border-radius: 10px;
     font-size: 20px;
     flex: 1;
-    min-width: 0; /* Установка минимальной ширины */
-    padding: 0; /* Убираем внутренние отступы у кнопок */
-    margin: 0; /* Убираем внешние отступы у кнопок */
-    border: none; /* Убираем границы у кнопок */
-    background-color: #fff; /* Цвет фона кнопок */
-    cursor: pointer; /* Изменение курсора при наведении на кнопки */
-    width: calc(100% / 7); /* Ширина кнопок, чтобы они равномерно распределились в строке */
-    height: 100%; /* Высота кнопок */
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    width: calc(100% / 7);
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
